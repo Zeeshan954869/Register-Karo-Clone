@@ -12,8 +12,8 @@ Node.js (v18 or higher)
 npm
 Installation
 Clone the repository:
-git clone
-cd RegisterKaroHomepage_Clone
+git clone https://github.com/Zeeshan954869/Register-Karo-Clone.git
+cd registerkaro
 Getting Started
 Follow these steps to set up and run the TaskBoard application on your local machine.
 
